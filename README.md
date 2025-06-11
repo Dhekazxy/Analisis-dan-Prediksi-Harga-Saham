@@ -21,10 +21,14 @@ Hasil ini menunjukkan bahwa model berbasis deep learning lebih unggul dalam pred
 
 ---
 
+## 🌐 Akses Aplikasi Streamlit
+
+🔗 **Lihat aplikasi interaktif di sini:**  
+[https://prediksi-saham-bbri.streamlit.app/](https://prediksi-saham-bbri.streamlit.app/)
+
+---
+
 ## 👥 Anggota Kelompok 4
 - Dimas Kurniawan – 23031554067  
 - Eko Hadi Prasetiyo – 23031554121  
 - M. Hilmi Musyaffa – 23031554128
-
----
-
